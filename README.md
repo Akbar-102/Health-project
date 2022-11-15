@@ -6,6 +6,8 @@ This is a web based application developed for health related telugu based websit
 
 
 **Project Link** - https://kind-mud-0f85de200.2.azurestaticapps.net
+
+
 **Project Demo video** - 
 
 
@@ -18,27 +20,24 @@ This is a web based application developed for health related telugu based websit
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
-## Screenshots
+## Screenshots of website -
 
- 📸
+ 📸![Screenshot-2022-11-11_08 12 1111](https://user-images.githubusercontent.com/111429865/201964533-10425e8d-f4da-4c9d-945a-92dc249d36fd.png)
 
 
+![Screenshot-2022-11-11_08 12 11111](https://user-images.githubusercontent.com/111429865/201964582-3edea3a3-1cc8-4ca6-bd16-3d25fd9634a9.png)
 
+## About us -
+
+   ![Screenshot-2022-11-11_08 12 1112](https://user-images.githubusercontent.com/111429865/201964647-adc8c2aa-d969-4d61-a30d-9b192d61f918.png)
    
+## Our service -
 
-### About Us -
+![Screenshot-2022-11-11_08 12 1113](https://user-images.githubusercontent.com/111429865/201964678-318cc439-3763-428e-8b4b-582520dcfca5.png)
 
+### Contact Us -
 
-
-
-
-
-### Privacy policy -
-
-
-
-
-
+![Screenshot-2022-11-11_08 12 1114](https://user-images.githubusercontent.com/111429865/201964697-3205bb8f-915b-40e9-aa52-5737a801fc1c.png)
 
 ## Tech Stack 💻
 
