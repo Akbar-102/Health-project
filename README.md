@@ -1,4 +1,4 @@
-# ✨ Health Prject  ✨
+# ✨ Health Project  ✨
 
 This is a web based application developed for health related telugu based website in india
 
@@ -9,6 +9,11 @@ This is a web based application developed for health related telugu based websit
 
 
 **Project Demo video** - 
+
+##Azure technologies used for Project -
+
+//Static web app
+//Health bot
 
 
 ## Features and Functionalities 😃
