@@ -8,7 +8,7 @@ This is a web based application developed for health related telugu based websit
 **Project Link** - https://kind-mud-0f85de200.2.azurestaticapps.net
 
 
-**Project Demo video** - 
+**Project Demo video** - https://youtu.be/4-h7T7_9VJQ
 
 ##Azure technologies used for Project -
 
